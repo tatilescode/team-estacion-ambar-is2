@@ -15,8 +15,8 @@ Este repositorio contiene la documentación, diagramas, prototipos y gestión de
 *   **Herielis** — *Gestión y Coordinación General*
 *   **Tatiana** — *Responsable de Documentación y Desarrollo*
 *   **Evelyn** — *Responsable de Herramientas y Control de Calidad*
-*   **Kevin** — *Responsable de Comunicación y Relaciones Externas*
-*   **Kevin** — *Responsable de Comunicación y Relaciones Externas*
+*   **Kevin** — *Responsable de Comunicación*
+*   **Martin** — *Responsable de Relaciones Externas*
 
 
 ---
